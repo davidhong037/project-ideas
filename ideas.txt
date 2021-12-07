@@ -1,0 +1,14 @@
+Custom Playlist Maker
+- Try to use Spotify, Soundcloud and Youtube API to allow users to build custom playlists.
+
+E-commerce Site
+- Create a log in/password feature along with a full check out system for an E-commerce site.
+
+Expense tracker App
+- Allow user to budget their finances better. 
+
+Recipe App
+- Displays recipes by using EDAMAM API that also shows the nutrition analysis
+
+Cryptocurrency Tracker App
+- Displays all cryptocurrency coins, market caps, and 24hr changes.
